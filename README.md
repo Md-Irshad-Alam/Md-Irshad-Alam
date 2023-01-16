@@ -4,6 +4,5 @@
 - 📫 How to reach me almairsh0205@gmail.com
 
 <!---
-Md-Irshad-Alam/Md-Irshad-Alam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+An inspired team palyer,always curious about new problems and learning new things in order to deliver out of the box solution with complete ownership.
 --->
