@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Md Irshad Alam , I am from Godda, Jharkhand . <br>Passionate Full Stack Web Developer with skills in the MERN stack, <br>I have learned Full Stack Web Development in Masai school. <br>Skilled in problem- solving and execution of software tasks from start to finish. <br>I look forward to joining a company where I can contribute to individual and company growth.<br>
+As an experienced full-stack web developer intern at Vatech Solution, I've honed my problem-solving abilities and gained practical experience. Hello! I'm Irshad Alam, a skilled software engineer with a bachelor's degree in physics and specialized training in full-stack web development from Masai School. Proficient in React.js, JavaScript, Node.js, Express.js, Redux, MongoDB, HTML, CSS, and Java, I've completed personal projects like DiscoveryPlus and Alibaba clones, along with inventory management systems and real-time chat applications. With a track record of solving over 200 DSA problems on LeetCode, I'm ready to tackle challenges and contribute to innovative projects in the tech industry.
 
 
 ## 🌐 Socials:
