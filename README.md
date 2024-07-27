@@ -1,6 +1,7 @@
 # 💫 About Me:
-As an experienced full-stack web developer intern at Vatech Solution, I've honed my problem-solving abilities and gained practical experience. Hello! I'm Irshad Alam, a skilled software engineer with a bachelor's degree in physics and specialized training in full-stack web development from Masai School. Proficient in React.js, JavaScript, Node.js, Express.js, Redux, MongoDB, HTML, CSS, and Java, I've completed personal projects like DiscoveryPlus and Alibaba clones, along with inventory management systems and real-time chat applications. With a track record of solving over 200 DSA problems on LeetCode, I'm ready to tackle challenges and contribute to innovative projects in the tech industry.
+I am a skilled Software Engineer with 2 years of experience in full stack development. My expertise spans Next.js, React.js, JavaScript, TypeScript, Node.js, Express.js, and MongoDB. I excel in building scalable and efficient web applications, ensuring exceptional user experiences.
 
+In my professional journey, I have significantly contributed to various projects, including developing a store management tool for a client using the MERN stack and creating a syslog server using Node.js, Next.js, TypeScript, and MongoDB. These projects showcased my ability to handle complex challenges and deliver high-quality software solutions.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/zayan.raj.311) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/md-irshad-alam-761b491b9/) 
