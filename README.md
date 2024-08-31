@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a skilled Software Engineer with 2 years of experience in full stack development. My expertise spans Next.js, React.js, JavaScript, TypeScript, Node.js, Express.js, and MongoDB. I excel in building scalable and efficient web applications, ensuring exceptional user experiences.
+I am a skilled Software Engineer with  experience in full stack development. My expertise spans Next.js, React.js, JavaScript, TypeScript, Node.js, Express.js, Java, and MongoDB. I excel in building scalable and efficient web applications, ensuring exceptional user experiences.
 
 In my professional journey, I have significantly contributed to various projects, including developing a store management tool for a client using the MERN stack and creating a syslog server using Node.js, Next.js, TypeScript, and MongoDB. These projects showcased my ability to handle complex challenges and deliver high-quality software solutions.
 
